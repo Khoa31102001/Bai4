@@ -14,8 +14,11 @@ body {
 
 }
 
+h1, h2, h3, h4, h5, a, p {
+    font-size: 2em;
+  }
+
 #main {
-    height: 98%;
     background-color: #fff;
     border: 3px solid #f44336;
     margin: 20px;
